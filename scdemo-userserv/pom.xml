@@ -11,7 +11,6 @@
     </parent>
 
     <artifactId>scdemo-userserv</artifactId>
-    <version>1.0-SNAPSHOT</version>
 
     <name>scdemo-userserv</name>
     <description>scdemo-userserv</description>
