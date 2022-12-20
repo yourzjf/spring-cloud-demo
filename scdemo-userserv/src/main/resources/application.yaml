@@ -1,0 +1,10 @@
+server:
+  port: 40080
+  servlet:
+    context-path: /userserv
+spring:
+  application:
+    name: scdemo-userserv
+  jackson:
+    time-zone: 'GMT+8'
+    date-format: 'yyyy-MM-dd HH:mm:ss'
